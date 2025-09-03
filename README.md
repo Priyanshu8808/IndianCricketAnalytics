@@ -1,6 +1,4 @@
-# IndianCricketAnalytics
-
-# 🏏 Indian Batsmen Performance Analysis | Power BI Dashboard
+# Indian Batsmen Performance Analysis | Power BI Dashboard
 
 This repository presents a **dynamic Power BI dashboard** that analyzes the performance of **Indian cricket batsmen** across all formats — Test, ODI, and T20I. The dashboard is fully interactive and designed to provide deep insights through engaging visualizations.
 
