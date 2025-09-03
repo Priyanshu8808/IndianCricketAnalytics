@@ -13,8 +13,7 @@ The goal of this project is to explore and visualize the batting performances of
 - 📈 **Dynamic Power BI Dashboard** – Interactive visuals that update in real-time based on user selections (player, format, opposition, etc.)
 - 🏏 **Batsman-Centric Analysis** – Focused exclusively on Indian batsmen across Test, ODI, and T20I formats
 - 🔍 **Drill-Down Filters** – Explore data by year, match format, opposition, venue, and individual players
-- 📊 **Key Metrics Tracked** – Runs, Strike Rate, Batting Average, 50s, 100s, Highest Scores, and consistency trends
-- 🔁 **Comparison View** – Compare two or more batsmen side by side
+- 📊 **Key Metrics Tracked** – Runs, Strike Rate, Batting Average, 100s, Highest Scores, and consistency trends
 - 📅 **Career Progression Timeline** – Visualize how a player's performance evolved over time
 - 📌 **Clean, User-Friendly UI** – Dashboard designed for smooth navigation and insightful storytelling
 
