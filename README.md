@@ -21,8 +21,8 @@ The goal of this project is to explore and visualize the batting performances of
 ## 🗂️ Data Sources:
 
 - Publicly available cricket datasets from:
+- [Cricmetric.](http://cricmetric.com/playerstats.py?player=SR%20Tendulkar&format=all&role=all)
 - [ESPN Cricinfo](https://www.espncricinfo.com/)
-- [Kaggle Cricket Datasets](https://www.kaggle.com/datasets)
 - Cleaned and transformed using Power Query in Power BI
 
 
