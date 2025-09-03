@@ -1,2 +1,38 @@
 # IndianCricketAnalytics
-This repository contains a dynamic and interactive Power BI dashboard focused exclusively on the performance of Indian cricket batsmen across all major formats — Test, ODI, and T20I.Interactive dashboards analyzing batting statistics , Insights into runs scored, strike rates, averages, centuries. Timeline trends to evaluate career progression .
+
+# 🏏 Indian Batsmen Performance Analysis | Power BI Dashboard
+
+This repository presents a **dynamic Power BI dashboard** that analyzes the performance of **Indian cricket batsmen** across all formats — Test, ODI, and T20I. The dashboard is fully interactive and designed to provide deep insights through engaging visualizations.
+
+## 📌 Project Overview
+
+The goal of this project is to explore and visualize the batting performances of Indian cricketers using **Power BI**. By leveraging cricket datasets and data visualization techniques, the project allows users to interactively explore player statistics, identify trends, and make comparisons.
+
+## 🌟 Features & Highlights
+
+- 📈 **Dynamic Power BI Dashboard** – Interactive visuals that update in real-time based on user selections (player, format, opposition, etc.)
+- 🏏 **Batsman-Centric Analysis** – Focused exclusively on Indian batsmen across Test, ODI, and T20I formats
+- 🔍 **Drill-Down Filters** – Explore data by year, match format, opposition, venue, and individual players
+- 📊 **Key Metrics Tracked** – Runs, Strike Rate, Batting Average, 50s, 100s, Highest Scores, and consistency trends
+- 🔁 **Comparison View** – Compare two or more batsmen side by side
+- 📅 **Career Progression Timeline** – Visualize how a player's performance evolved over time
+- 📌 **Clean, User-Friendly UI** – Dashboard designed for smooth navigation and insightful storytelling
+
+## 🗂️ Data Sources:
+
+- Publicly available cricket datasets from:
+- [ESPN Cricinfo](https://www.espncricinfo.com/)
+- [Kaggle Cricket Datasets](https://www.kaggle.com/datasets)
+- Cleaned and transformed using Power Query in Power BI
+
+
+## 🛠️ Tools & Technologies
+- Power BI (Dashboarding, DAX, Data Modeling)
+- Power Query (ETL)
+- Excel / CSV files (Raw data handling).
+
+## 🖼️ Dashboard Preview
+
+![Dashboard Preview](https://github.com/Priyanshu8808/IndianCricketAnalytics/blob/main/Cricket.jpg)
+
+
