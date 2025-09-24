@@ -2,11 +2,11 @@
 
 This repository presents a **dynamic Power BI dashboard** that analyzes the performance of **Indian cricket batsmen** across all formats — Test, ODI, and T20I. The dashboard is fully interactive and designed to provide deep insights through engaging visualizations.
 
-## 📌 Project Overview
+##  Project Overview
 
 The goal of this project is to explore and visualize the batting performances of Indian cricketers using **Power BI**. By leveraging cricket datasets and data visualization techniques, the project allows users to interactively explore player statistics, identify trends, and make comparisons.
 
-## 🌟 Features & Highlights
+##  Features & Highlights
 
 - 📈 **Dynamic Power BI Dashboard** – Interactive visuals that update in real-time based on user selections (player, format, opposition, etc.)
 - 🏏 **Batsman-Centric Analysis** – Focused exclusively on Indian batsmen across Test, ODI, and T20I formats
@@ -15,7 +15,7 @@ The goal of this project is to explore and visualize the batting performances of
 - 📅 **Career Progression Timeline** – Visualize how a player's performance evolved over time
 - 📌 **Clean, User-Friendly UI** – Dashboard designed for smooth navigation and insightful storytelling
 
-## 🗂️ Data Sources:
+##  Data Sources:
 
 - Publicly available cricket datasets from:
 - [Cricmetric.](http://cricmetric.com/playerstats.py?player=SR%20Tendulkar&format=all&role=all)
