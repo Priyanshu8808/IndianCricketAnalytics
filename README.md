@@ -1,5 +1,9 @@
 # Indian Batsmen Performance Analysis | Power BI Dashboard
 
+[![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-blue)](https://powerbi.microsoft.com/) 
+[![SQL](https://img.shields.io/badge/SQL-Database-orange)](https://www.microsoft.com/en-us/sql-server/) 
+[![Excel](https://img.shields.io/badge/Excel-Data%20Prep-green)](https://www.microsoft.com/en-us/microsoft-365/excel)
+
 This repository presents a **dynamic Power BI dashboard** that analyzes the performance of **Indian cricket batsmen** across all formats — Test, ODI, and T20I. The dashboard is fully interactive and designed to provide deep insights through engaging visualizations.
 
 ##  Project Overview
